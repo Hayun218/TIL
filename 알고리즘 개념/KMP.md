@@ -1,7 +1,7 @@
 ##KMP
 	문자열로 검색하기! 시간복잡도: O(N+M)
 
-이중 for문으로 나타낸다.
+이중 for문으로 나타내는 경우 
 
 ~~~
 String S = "I have a pen";
