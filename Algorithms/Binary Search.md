@@ -51,7 +51,8 @@ int main(){
 }
 ```
 
-
+- 참고문헌
+  - [참고자료](https://wootool.tistory.com/62)
 
 #### lower_bound (`<algorithm>` STL)
 
